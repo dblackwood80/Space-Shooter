@@ -1,3 +1,3 @@
-# Space-Shooter
-Generic Top-Down Space Shooter For Android.
+# Infinite Voyage
+Top-Down Space Shooter For Android.
 Still In Progress
